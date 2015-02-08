@@ -10,7 +10,7 @@ There is increasingly more interest in the "quantified self" movement.  This pro
 ## Loading and preprocessing the data
 First download the data set from [here](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip) and unzip the compressed file.
 
-Once the raw data is ready, read in to R and load libraries that will be used for the analysis
+Once the raw data is ready, read in to R and load libraries that will be used for the analysis.
 
 ```{r,message=FALSE}
 library(dplyr)
